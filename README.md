@@ -1,11 +1,12 @@
 # aztral-airlines
 SQL Script to add Teleporter with options in every major city
 
-Sorce originally from Rochet2 - 
+Source originally from Rochet2 - 
 
 Converted and expanded upon for use with AzerothCore
 
-Original Hype Girl
+Original Hype Girl Stuff
+
 Portal Master is a teleporter NPC for 3.3.5a.
 It has 130+ teleports including all zones in wow.
 Portal Master was created with blizzlike feeling and usability in mind.
