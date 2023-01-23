@@ -1,6 +1,6 @@
 /*
 Original Code By Rochet2 and downloaded from http://rochet2.github.io/
-Bugs : Flavaflav
+Bugs : https://github.com/Logandros/aztral-airlines/issues
 Modified and expanded upon for use with AzerothCore by Flavaflav
 Initial re-release
  - converted for use with AzerothCore
@@ -12,7 +12,7 @@ SET
 @NAME           := "Rumack", -- toon name, change if you like
 @SUBNAME        := "Aztral Airlines", -- if you don't want a sub name, rever to ""
 @MODEL          := 21572,
-@BOXMONEY		:= 0, -- you can set a cost option here, leave it 0 for no cose, example 10000 would be 1G
+@BOXMONEY       := 0, -- you can set a cost option here, leave it 0 for no cose, example 10000 would be 1G
 
 @AURA           := "30540", -- "35766" = casting
 
