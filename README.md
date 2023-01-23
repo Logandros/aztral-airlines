@@ -15,4 +15,4 @@ All teleports have the zone’s level requirement. This means that you can not t
 The teleporter is spawned by default in every main city at the location of teleportation.
 Feel free to modify the SQL if you'd like to set a your own name and subname for the teleporter as well as a cost.
 
-https://github.com/Logandros/aztral-airlines/blob/main/aztral.png
+![Stormwind](https://github.com/Logandros/aztral-airlines/blob/main/aztral.png)
