@@ -14,6 +14,9 @@ Portal Master was created with blizzlike feeling and usability in mind.
 The teleports are categorized and you can only see your own faction teleports.
 All teleports have the zone’s level requirement. This means that you can not teleport anywhere when at a lower level.
 The teleporter is spawned by default in every main city at the location of teleportation.
-Feel free to modify the SQL if you'd like to set a your own name and subname for the teleporter as well as a cost.
 
-![Stormwind](https://github.com/Logandros/aztral-airlines/blob/main/aztral.png)
+Feel free to modify the SQL if you'd like to set a your own name and subname for the teleporter as well as a cost for portals which I added as optional.
+
+## Screenshot
+
+![aztral-airlines](https://raw.githubusercontent.com/Logandros/aztral-airlines/main/aztral.png)
